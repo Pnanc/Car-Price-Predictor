@@ -45,8 +45,8 @@ Scikit-learn: For machine learning model implementation (Linear Regression, prep
 To get this project up and running on your local machine, follow these steps:
 
 1.Clone the repository:
-git clone https://github.com/Pnanc/used-car-price-prediction.git
-cd used-car-price-prediction
+git clone https://github.com/Pnanc/car price predictor.git
+cd car price predictor
 
 2.Create a virtual environment (recommended):
 python -m venv venv
