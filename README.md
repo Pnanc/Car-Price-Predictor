@@ -3,7 +3,7 @@
 Used Car Price Prediction
 This project focuses on building a machine learning model to predict the prices of used cars. By leveraging various car features, the aim is to provide an accurate estimation of a car's market value. This project is an excellent demonstration of supervised machine learning techniques applied to real-world automotive data.
 
-**Table of Contents**
+# Table of Contents
 * Overview
 
 * Features
